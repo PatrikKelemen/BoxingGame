@@ -99,6 +99,11 @@ class BoxingGame : public olc::PixelGameEngine
 		return output;
 	}
 
+	fightAttacks mouseControl() {
+			//lets say this function was completed for git verson control demostrations purposes 
+	}
+
+
 public:
 	BoxingGame()
 	{
