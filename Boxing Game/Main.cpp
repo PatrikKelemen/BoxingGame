@@ -18,7 +18,8 @@ struct Skills {
 };
 
 struct Injury {
-
+	int serverity;
+	string Description; 
 };
 
 struct Fighter {
